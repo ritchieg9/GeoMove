@@ -41,6 +41,12 @@ Como ejecutar GeoMove ?
 
 Para cargar este proyecto a un entorno de desarrollo (Por ejemplo, la IDE Code::Blocks), no olvides linkear las bibliotecas antes mencionadas.
 
+
+Changelog
+===============
+
+* Versión 1.00 - Inicial
+
 Copyright
 =========
 
