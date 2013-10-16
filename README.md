@@ -1,4 +1,4 @@
-Geomove
+GeoMove
 =======
 Version 1.00	
 
