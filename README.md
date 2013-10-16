@@ -6,7 +6,7 @@ Copyright (C) 2013 Isaac Farías. < isaac.farias.camacho@gmail.com >
 
 Copyright (C) 2013 Ricardo Valtierra. < ritchieg9@gmail.com >
 
-Copyright (C) 2013 Alejandro Martinez. < ritchieg9@gmail.com >
+Copyright (C) 2013 Alejandro Martinez. < chivato13@hotmail.com >
 
 
 Que es GeoMove?
@@ -35,19 +35,11 @@ GCC es software libre y lo distribuye la Free Software Foundation (FSF) bajo la 
 Como ejecutar GeoMove ?
 ===========================
 
-Ya situado dentro de la carpeta del proyecto.
+* Dirígete por medio de la consola a la siguiente ruta del Proyecto: GeoMove/bin/Debug/
 
-Compilar y Ejecutar en consola:
+* Ejecuta la siguiente linea en consola: $ ./GeoMove
 
-$ gcc main.cpp -o main
-
-$ ./main
-
-Cargar Proyecto:
-
-Incluimos también el archivo para cargar este proyecto con la IDE CodeBlocks.
-De requerirse, este archivo se encuentra sobre la carpeta del Proyecto (Geomove/r5.cbp),
-
+Para cargar este proyecto a un entorno de desarrollo (Por ejemplo, la IDE Code::Blocks), no olvides linkear las bibliotecas antes mencionadas.
 
 Copyright
 =========
@@ -58,7 +50,7 @@ Copyright (C) 2013 Isaac Farías. < isaac.farias.camacho@gmail.com >
 
 Copyright (C) 2013 Ricardo Valtierra. < ritchieg9@gmail.com >
 
-Copyright (C) 2013 Alejandro Martinez. < ritchieg9@gmail.com >
+Copyright (C) 2013 Alejandro Martinez. < chivato13@hotmail.com >
 
 GeoMove se distribuye bajo los termino de la licencia GNU LGPL.
 
@@ -67,7 +59,6 @@ Agradecimientos
 ======
 
 Especial Agradecimiento a Nuestras Familias y Amigos.
-
 
 Excelente día,
 
