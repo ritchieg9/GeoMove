@@ -8,11 +8,15 @@ Copyright (C) 2013 Ricardo Valtierra. < ritchieg9@gmail.com >
 
 Copyright (C) 2013 Alejandro Martinez. < chivato13@hotmail.com >
 
+Copyright (C) 2013 Eduardo Campos. < retsam.legna@gmail.com >
 
 Que es GeoMove?
 ===============
 
 GeoMove es un programa como practica de aprendizaje bajo el desarrllo de  Software Libre, utilizando también  el uso de librerías de gráficos.
+Se realiza con la finalidad de conocer más sobre el desarrollo,  documentación y liberación de un Proyecto bajo respaldo del Software Libre.
+Se presentó a clase de Software Libre (Univesidad de Guadaladalajara (CUCEI) - 24 Oct 2013, Guadalajara, Jalisco. México) y fué evaluada 
+por el profesor Eduardo Campos Serrano, quien imparte la clase.
 El programa muestra tres figuras que pueden desplazarse en la pantalla de forma independiente. 
 Cada una de las figuras se posicionan por un foco de ubicación con la tecla "tab". 
 Cuando una figura está bajo un foco, está tomara un tono distinto al inicial y será permitido mover la figura ahora seleccionada.
@@ -57,6 +61,8 @@ Copyright (C) 2013 Isaac Farías. < isaac.farias.camacho@gmail.com >
 Copyright (C) 2013 Ricardo Valtierra. < ritchieg9@gmail.com >
 
 Copyright (C) 2013 Alejandro Martinez. < chivato13@hotmail.com >
+
+Copyright (C) 2013 Eduardo Campos. < retsam.legna@gmail.com >
 
 GeoMove se distribuye bajo los termino de la licencia GNU LGPL.
 
